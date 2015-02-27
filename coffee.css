@@ -20,6 +20,15 @@ body {
   color: #F7FAFE;
 
 }
+
+#footer {
+  height: 50px;
+  width: 100%;
+  text color: white;
+  background-color:#D64541;
+}
+
+
 /* Mission:
     background color - #323232
     text color - #f7fafe
