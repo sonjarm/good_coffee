@@ -12,6 +12,7 @@ body {
   background-position:  center;
 
 }
+
 .jumbotron h1 {
   position: absolute;
   top:18;
@@ -21,24 +22,14 @@ body {
 
 }
 
-#footer {
-  height: 50px;
-  width: 100%;
-  text color: white;
+footer {  
+  padding-top: 10px;
+  color: white;
   background-color:#D64541;
+  height: 40px;
 }
-
-
+ 
 /* Mission:
-    background color - #323232
-    text color - #f7fafe
-
-    Features:
-    color - #323232
-
-    Footer:
-    background color- #D64541;
-    text color - white 
 
     w3schools.com (CSS properties)
     getBootstrap.com/components
